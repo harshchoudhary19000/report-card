@@ -5,7 +5,7 @@ math=0
 science=0
 sst=0
 a=input("student Name")
-b=input("father Name")
+b=input("father Name:")
 c=input("DOB")
 h= "hindi"
 def marks():
